@@ -21,7 +21,7 @@ export default defineUserConfig({
           { text: 'Encryption', link: '/backend/encryption' },
           { text: 'Hashing', link: '/backend/hashing' },
           { text: 'Basic Auth', link: '/backend/basic-auth' },
-          { text: 'Token Auth', link: '/backend/jwt' }
+          { text: 'Token Auth', link: '/backend/tokens' }
         ]
       }
     ]
