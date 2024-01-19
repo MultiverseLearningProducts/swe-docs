@@ -11,10 +11,10 @@ export default defineUserConfig({
     logoDark: '/mv-symbol-dark.png',
     docsDir: '/docs',
     navbar: [
-      {
-        text: 'Frontend',
-        children: [{ text: 'components', link: '/frontend/components' }]
-      },
+      // {
+      //   text: 'Frontend',
+      //   children: [{ text: 'components', link: '/frontend/components' }]
+      // },
       {
         text: 'Backend',
         children: [
